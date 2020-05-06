@@ -20,7 +20,7 @@ title                    : "Robson Melchiades"
 title_separator          : "-"
 subtitle                 : #
 name                     : "Robson Melchiades Neto Junior"
-description              : "Site destinado à divulgação dos projetos da área de Ciência da Computação desenvolvidos por mim."
+description              : "Site destinado à divulgação de materias desenvolvidos relacionados a área de Ciência da Computação"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Robson Melchiades Neto Junior"
   avatar           : "/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Site destinado à divulgação de materias desenvolvidos relacionados a área de Ciência da Computação"
   location         : "Bauru, SP"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "robson_melchiades@hotmail.com"
+      url: "//robson_melchiades@hotmail.com"
 
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
@@ -142,7 +142,7 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/robsonmelchiades"
-      
+
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "robson_melchiades@hotmail.com"

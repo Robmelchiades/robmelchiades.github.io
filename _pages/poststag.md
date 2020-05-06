@@ -4,7 +4,7 @@ permalink: /posts-tag/
 title: "Posts por Tags"
 author_profile: true
 header:
-  image: "/images/ml.jpg"
+  image: "/images/posts.jpg"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
