@@ -7,7 +7,7 @@ header:
   image: "/images/header_logo_01.jpg"
 ---
 
-{% include group-by-array collection=site.posts field="tags" %}
+<!-- {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
@@ -15,4 +15,8 @@ header:
   {% for post in site.posts %}
     {% include archive-single.html %}
   {% endfor %}
+{% endfor %} -->
+
+{% for post in site.cienciadacomputacao %}
+  {% include archive-single.html %}
 {% endfor %}
