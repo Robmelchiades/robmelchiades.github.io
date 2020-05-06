@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /posts-tag/
-title: "Posts por Tags"
+permalink: /posts/
+title: "Posts"
 author_profile: true
 header:
-  image: "/images/posts.jpg"
+  image: "/images/header_logo_01.jpg"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}

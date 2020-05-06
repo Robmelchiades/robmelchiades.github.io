@@ -2,5 +2,9 @@
 main:
   - title: "Sobre"
     url: /sobre/
-  - title: "Posts por Tags"
-    url: /posts-tag/
+  - title: "Posts"
+    url: /posts/
+  # - title: "Ciência da Computaçao"
+  #   url: /ciencia-computacao/
+  # - title: "Portfolio"
+  #   url: /portfolio/

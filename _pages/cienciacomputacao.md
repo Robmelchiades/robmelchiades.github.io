@@ -4,7 +4,7 @@ permalink: /ciencia-computacao/
 title: "Ciência da Computação"
 author_profile: true
 header:
-  image: "/images/posts.jpg"
+  image: "/images/header_logo_01.jpg"
 ---
 
 {% for post in site.cienciadacomputacao %}
