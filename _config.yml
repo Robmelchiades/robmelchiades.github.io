@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Robson Melchiades Neto Junior"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Bauru, SP"
   email            :
