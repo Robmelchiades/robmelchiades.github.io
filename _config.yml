@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "pt-BR"
 title                    : "Robson Melchiades"
 title_separator          : "-"
-subtitle                 : "Site destinado à divulgação dos projetos da área de Ciência da Computação desenvolvidos por mim."
+subtitle                 : #
 name                     : "Robson Melchiades Neto Junior"
-description              : "An amazing website."
+description              : "Site destinado à divulgação dos projetos da área de Ciência da Computação desenvolvidos por mim."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,10 +101,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "robson_melchiades@hotmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+       url: "robson_melchiades@hotmail.com"
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkedin-square"
+       url: "www.linkedin.com/in/robsonmelchiades"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url: "https://github.com/Robmelchiades"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+       url: https://github.com/Robmelchiades
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -139,6 +139,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkedin-square"
+       url: "www.linkedin.com/in/robsonmelchiades"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+       url: "robson_melchiades@hotmail.com"
 
 
 # Reading Files
