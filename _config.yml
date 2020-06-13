@@ -19,7 +19,7 @@ locale                   : "pt-BR"
 title                    : "Robson Melchiades"
 title_separator          : "-"
 subtitle                 : #
-name                     : "Robson Melchiades Neto Junior"
+name                     : "Robson Melchiades"
 description              : "Site destinado à divulgação de materias desenvolvidos relacionados a área de Ciência da Computação"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
